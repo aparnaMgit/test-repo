@@ -1,3 +1,3 @@
 * foo
   * bar
-  1. numbered
+     1. numbered
