@@ -1,0 +1,12 @@
+# NFC NDEF Records
+
+## NDEF record #1
+
+```text
+https://snooquickstart.happiestbaby.com/sn/1234567812345678
+└─────────────────────────────────────┤ └┤ └──────────────┤
+                                      │  │                │
+                                      │  │                └── Serial Number - 16 chars
+                                      │  └─────────────────── Always sn
+                                      └────────────────────── Prefix for mobile application
+```
